@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  productivio
+*/
+"Work finished" = "Рабочий интервал окончен";
+"Time to take a break" = "Время для отдыха";
+"Break finished" = "Перерыв окончен";
+"Time to get back to work" = "Время вернуться к работе";
+"Work duration" = "Время работы";
+"Short break duration" = "Время перерыва";
+"Long break duration" = "Время долгого перерыва";
+"Long break after" = "Долгий перерыв после";

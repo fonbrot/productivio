@@ -1,0 +1,108 @@
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "0X5-gO-TU0"; */
+"0X5-gO-TU0.title" = "Настройки";
+
+/* Class = "UITableViewSection"; headerTitle = "Sound"; ObjectID = "383-da-lPD"; */
+"383-da-lPD.headerTitle" = "Звуки";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "4x6-yc-Y3c"; */
+"4x6-yc-Y3c.text" = "Информация";
+
+/* Class = "UINavigationItem"; title = "Statistics"; ObjectID = "535-1l-ST4"; */
+"535-1l-ST4.title" = "Статистика";
+
+/* Class = "UILabel"; text = "Reset counts"; ObjectID = "6H1-1q-67K"; */
+"6H1-1q-67K.text" = "Сбросить счетчики";
+
+/* Class = "UITextView"; text = "The Pomodoro Technique is a time management method. \n\nThe technique uses a timer to break down work into intervals separated by short breaks.\n\nThese intervals are named pomodoros.\n\nThere are six steps in the technique:\n\n1. Decide on the task to be done.\n2. Set the pomodoro timer (traditionally to 25 minutes).\n3. Work on the task.\n4. End work when the timer rings.\n5. Take a short break (3–5 minutes).\n6. After four pomodoros, take a longer break (15 minutes)."; ObjectID = "7tn-kI-QmX"; */
+"7tn-kI-QmX.text" = "Техника Pomodoro - метод тайм-менеджемента. \n\nТехника использует таймер для прерывания рабочих интервалов короткими перерывами. Эти интервалы называются pomodoros. \n\nВ этой технике 6 шагов: \n\n1. Выберите задачу.\n2. Установите таймер (обычно 25 минут).\n3. Работайте над задачей.\n4. Закончите работу после окончания таймера.\n5. Сделайте короткий перевыв (обычно 5 минут).\n6. После четырех интервалов сделайте длинный перерыв (обычно 15 минут)";
+
+/* Class = "UILabel"; accessibilityLabel = "timer"; ObjectID = "9Sb-0B-ajq"; */
+"9Sb-0B-ajq.accessibilityLabel" = "Таймер";
+
+/* Class = "UILabel"; text = "25:00"; ObjectID = "9Sb-0B-ajq"; */
+"9Sb-0B-ajq.text" = "25:00";
+
+/* Class = "UILabel"; text = "Productivio 1.0"; ObjectID = "HSP-DS-JUF"; */
+"HSP-DS-JUF.text" = "Productivio 1.0";
+
+/* Class = "UITabBarItem"; title = "Timer"; ObjectID = "I9j-Ye-WcJ"; */
+"I9j-Ye-WcJ.title" = "Таймер";
+
+/* Class = "UILabel"; text = "Long break"; ObjectID = "IIR-Zg-2lO"; */
+"IIR-Zg-2lO.text" = "Длинный перерыв";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Lzn-30-Kke"; */
+"Lzn-30-Kke.text" = "Информация";
+
+/* Class = "UILabel"; text = "Play sound"; ObjectID = "Ppt-mO-TDf"; */
+"Ppt-mO-TDf.text" = "Играть звук";
+
+/* Class = "UILabel"; text = "Long break after"; ObjectID = "QeY-Zc-p1I"; */
+"QeY-Zc-p1I.text" = "Длинный перерыв после";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Qgw-Mr-xpF"; */
+"Qgw-Mr-xpF.text" = "Название";
+
+/* Class = "UILabel"; text = "Completed all-time"; ObjectID = "S2B-ju-dPj"; */
+"S2B-ju-dPj.text" = "Всего выполнено";
+
+/* Class = "UITextField"; text = "4"; ObjectID = "SIh-bH-F0g"; */
+"SIh-bH-F0g.text" = "4";
+
+/* Class = "UITabBarItem"; title = "Stats"; ObjectID = "UEV-hF-u2m"; */
+"UEV-hF-u2m.title" = "Статистика";
+
+/* Class = "UILabel"; accessibilityLabel = "today"; ObjectID = "Xa7-t7-gnE"; */
+"Xa7-t7-gnE.accessibilityLabel" = "сегодня";
+
+/* Class = "UILabel"; text = "Today:"; ObjectID = "Xa7-t7-gnE"; */
+"Xa7-t7-gnE.text" = "Сегодня:";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "Y7h-09-cIg"; */
+"Y7h-09-cIg.title" = "Информация";
+
+/* Class = "UILabel"; text = "Completed today"; ObjectID = "YDP-Ej-P08"; */
+"YDP-Ej-P08.text" = "Сегодня выполнено";
+
+/* Class = "UIButton"; accessibilityLabel = "start button"; ObjectID = "a8Z-qM-csF"; */
+"a8Z-qM-csF.accessibilityLabel" = "старт";
+
+/* Class = "UILabel"; text = "Auto restart"; ObjectID = "bbq-x9-3cU"; */
+"bbq-x9-3cU.text" = "Авто запуск";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "cl6-sD-h0r"; */
+"cl6-sD-h0r.text" = "Информация";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "cwe-El-EH6"; */
+"cwe-El-EH6.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Tone"; ObjectID = "gcE-YD-6eX"; */
+"gcE-YD-6eX.text" = "Звук";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "gfq-ac-dcp"; */
+"gfq-ac-dcp.text" = "0";
+
+/* Class = "UITextField"; text = "5"; ObjectID = "l0h-Hc-ij6"; */
+"l0h-Hc-ij6.text" = "5";
+
+/* Class = "UILabel"; text = "Work interval"; ObjectID = "mB6-ju-z5s"; */
+"mB6-ju-z5s.text" = "Рабочий интервал";
+
+/* Class = "UITextField"; text = "25"; ObjectID = "rc1-aZ-TfS"; */
+"rc1-aZ-TfS.text" = "25";
+
+/* Class = "UITextField"; accessibilityLabel = "task input"; ObjectID = "svB-YY-l9f"; */
+"svB-YY-l9f.accessibilityLabel" = "задание";
+
+/* Class = "UITextField"; placeholder = "Task"; ObjectID = "svB-YY-l9f"; */
+"svB-YY-l9f.placeholder" = "Задание";
+
+/* Class = "UILabel"; text = "Short break"; ObjectID = "v64-5A-0d2"; */
+"v64-5A-0d2.text" = "Перерыв";
+
+/* Class = "UITextField"; text = "15"; ObjectID = "wUj-Ch-m7i"; */
+"wUj-Ch-m7i.text" = "15";
+
+/* Class = "UILabel"; text = "Prevent screen lock"; ObjectID = "xjF-Pi-e2g"; */
+"xjF-Pi-e2g.text" = "Не выключать экран";
